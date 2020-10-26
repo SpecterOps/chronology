@@ -21,6 +21,7 @@ CVE-2018-0902,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory
 CVE-2018-0884,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0884,Lee Christensen
 CVE-2018-0854,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0854,Matt Graeber
 CVE-2018-0827,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0827,Matt Nelson
+N/A,https://github.com/MicrosoftDocs/windows-itpro-docs/blame/953da14f7460ea6ec75d1ca6a84a492f85f95b04/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules.md#L59-VisualUIAVerifyNative.exe%20bypass,Lee Christensen
 CVE-2017-8715,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8715,Matt Nelson
 CVE-2017-8625,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8625,Matt Nelson
 CVE-2017-0219,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0219,Matt Graeber
