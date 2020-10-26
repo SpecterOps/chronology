@@ -1,4 +1,5 @@
 Timestamp,Conference Name,Conference Name (If Applicable),Link to Talk on Site,Name of Talk,Link to Slides,Link to Video,Date of Talk,Presenters
+,Conference Talk,HushCon Seattle 2019,,Understanding Windows Access Token Manipulation,https://www.slideshare.net/JustinBui5/understanding-windows-access-token-manipulation,,12/7/19,Justin Bui
 ,Conference Talk,TROOPERS18,https://troopers.de/troopers18/agenda/vhrnj3/,Subverting Trust in Windows,,https://www.youtube.com/watch?v=LpsrJOGRU8w,3/15/18,Matt Graeber
 2018/02/21 10:49:13 AM EST,Conference Talk,BlueHat Israel 2018,http://www.bluehatil.com/abstracts.html?abs=10#10,"Hi, My Name is ""CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US""",http://www.bluehatil.com/files/Matt%20Graeber%20BlueHat%20IL%202018.pdf,https://youtu.be/I3jCGBzMmzw,1/24/18,
 2018/02/26 2:55:15 PM EST,Conference Talk,BlackHat Europe 17,https://www.blackhat.com/eu-17/briefings.html#a-process-is-no-one-hunting-for-token-manipulation,A Process is No One: Hunting for Token Manipulation,https://www.blackhat.com/docs/eu-17/materials/eu-17-Atkinson-A-Process-Is-No-One-Hunting-For-Token-Manipulation.pdf,,12/7/17,
