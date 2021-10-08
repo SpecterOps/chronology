@@ -1,0 +1,25 @@
+Mythic,simulation,https://github.com/its-a-feature/Mythic
+MythicAgents,simulation,https://github.com/mythicagents
+Covenant,simulation,https://github.com/cobbr/Covenant
+Cs2modrewrite,simulation,https://github.com/threatexpress/cs2modrewrite
+Domain Hunter,simulation,https://github.com/threatexpress/domainhunter
+Empire,simulation,https://github.com/EmpireProject/Empire
+GhostManager,simulation,https://github.com/GhostManager
+GhostPack,simulation,https://github.com/GhostPack
+Malleable C2,simulation,https://github.com/threatexpress/malleable-c2
+KeeThief,simulation,https://github.com/HarmJ0y/KeeThief
+Merlin,simulation,https://github.com/Ne0nd0g/merlin
+PortPlow.io,simulation,https://github.com/threatexpress/portplow
+PowerSploit,simulation,https://github.com/PowerShellMafia/PowerSploit/
+SharpSploit,simulation,https://github.com/cobbr/SharpSploit
+ACE,detection,https://github.com/Invoke-IR/ACE
+CimSweep,detection,https://github.com/PowerShellMafia/CimSweep
+PowerForensics,detection,https://github.com/Invoke-IR/PowerForensics
+Uproot,detection,https://github.com/Invoke-IR/Uproot
+BloodHound,hybrid,https://github.com/BloodHoundAD/BloodHound
+PowerSCCM,simulation,https://github.com/PowerShellMafia/PowerSCCM
+MoveKit,simulation,https://github.com/0xthirteen/MoveKit
+StayKit,simulation,https://github.com/0xthirteen/StayKit
+SharpRDP,simulation,https://github.com/0xthirteen/SharpRDP
+WireTap,simulation,https://github.com/djhohnstein/WireTap
+SharpChromium,simulation,https://github.com/djhohnstein/SharpChromium
