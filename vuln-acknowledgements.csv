@@ -5,7 +5,7 @@ CVE-2025-52095,Garrett Foster,https://nvd.nist.gov/vuln/detail/cve-2025-52095,
 CVE-2025-52094,Garrett Foster,https://nvd.nist.gov/vuln/detail/cve-2025-52094,
 CVE-2024-26209,Evan McBroom,https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26209,
 CVE-2020-14979,Matt Hand,https://nvd.nist.gov/vuln/detail/cve-2020-14979,https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896
-CVE-2020-10747,Julian Catrambone,https://www.freeipa.org/page/Releases/4.6.9,https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b,
+CVE-2020-10747,Julian Catrambone,https://www.freeipa.org/page/Releases/4.6.9,https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b
 CVE-2020-9913,Cody Thomas,https://support.apple.com/en-us/HT211289,
 CVE-2020-8884,Lee Christensen,https://www.proofpoint.com/us/security/security-advisories/pfpt-sa-2020-0002,
 CVE-2020-0583,Lee Christensen,https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00354.html,
