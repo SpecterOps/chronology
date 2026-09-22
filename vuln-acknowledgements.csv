@@ -1,38 +1,39 @@
-CVE-2026-20967,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20967,Garrett Foster
-CVE-2025-59501,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59501,Garrett Foster
-CVE-2025-52095,https://nvd.nist.gov/vuln/detail/cve-2025-52095,Garrett Foster
-CVE-2025-52094,https://nvd.nist.gov/vuln/detail/cve-2025-52094,Garrett Foster
-CVE-2024-26209,https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26209,Evan McBroom
-CVE-2020-14979,https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896,Matt Hand
-CVE-2020-10747,https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b,Julian Catrambone
-CVE-2020-9913,https://support.apple.com/en-us/HT211289,Cody Thomas
-CVE-2020-8884,https://www.proofpoint.com/us/security/security-advisories/pfpt-sa-2020-0002,Lee Christensen
-CVE-2020-0583,https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00354.html,Lee Christensen
-CVE-2019-18631,https://centrify.force.com/support/Article/KB-22420-Centrify-Agent-for-Windows-Remote-Code-Execution-Vulnerability,Lee Christensen
-CVE-2019–12757,https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6,Matt Nelson
-CVE-2019-13382,https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349,Matt Nelson
-CVE-2019–13142,https://posts.specterops.io/cve-2019-13142-razer-surround-1-1-63-0-eop-f18c52b8be0c,Matt Nelson
-CVE-2019-0683,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0683,Will Schroeder / Lee Christensen
-CVE-2018-8200,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8200,Matt Graeber
-CVE-2018-8204,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8204,Matt Graeber / Matt Nelson
-CVE-2018-8414,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8414,Matt Nelson
-CVE-2018-8222,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8222,Matt Graeber
-CVE-2018-8221,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8221,Matt Graeber
-CVE-2018-8212,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8212,Matt Nelson
-CVE-2018-8211,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8211,Matt Graeber
-CVE-2018-8126,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8126,Matt Nelson
-CVE-2018-0958,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0958,Lee Christensen
-CVE-2018-0902,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0902,Matt Nelson
-CVE-2018-0884,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0884,Lee Christensen
-CVE-2018-0854,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0854,Matt Graeber
-CVE-2018-0827,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0827,Matt Nelson
-N/A,https://github.com/MicrosoftDocs/windows-itpro-docs/blame/953da14f7460ea6ec75d1ca6a84a492f85f95b04/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules.md#L59-VisualUIAVerifyNative.exe%20bypass,Lee Christensen
-CVE-2017-8715,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8715,Matt Nelson
-CVE-2017-8625,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8625,Matt Nelson
-CVE-2017-0219,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0219,Matt Graeber
-CVE-2017-0218,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0218,Matt Graeber / Matt Nelson
-CVE-2017-0216,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0216,Matt Graeber
-CVE-2017-0215,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0215,Matt Nelson
-CVE-2017-0007,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0007,Matt Nelson
-CVE-2016-3346,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2016-3346,Matt Graeber
-ADV170021,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV170021,Matt Nelson
+ID,Researcher(s),URL,Blog
+CVE-2026-20967,Garrett Foster,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20967,
+CVE-2025-59501,Garrett Foster,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59501,
+CVE-2025-52095,Garrett Foster,https://nvd.nist.gov/vuln/detail/cve-2025-52095,
+CVE-2025-52094,Garrett Foster,https://nvd.nist.gov/vuln/detail/cve-2025-52094,
+CVE-2024-26209,Evan McBroom,https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26209,
+CVE-2020-14979,Matt Hand,https://nvd.nist.gov/vuln/detail/cve-2020-14979,https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896,
+CVE-2020-10747,Julian Catrambone,https://www.freeipa.org/page/Releases/4.6.9,https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b,
+CVE-2020-9913,Cody Thomas,https://support.apple.com/en-us/HT211289,
+CVE-2020-8884,Lee Christensen,https://www.proofpoint.com/us/security/security-advisories/pfpt-sa-2020-0002,
+CVE-2020-0583,Lee Christensen,https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00354.html,
+CVE-2019-18631,Lee Christensen,https://centrify.force.com/support/Article/KB-22420-Centrify-Agent-for-Windows-Remote-Code-Execution-Vulnerability,
+CVE-2019–12757,Matt Nelson,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/0/0/symsa1488,https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6
+CVE-2019-13382,Matt Nelson,https://support.techsmith.com/hc/en-us/articles/43414049971213-Snagit-Windows-2019-Version-History,https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349
+CVE-2019–13142,Matt Nelson,https://nvd.nist.gov/vuln/detail/cve-2019-13142,https://posts.specterops.io/cve-2019-13142-razer-surround-1-1-63-0-eop-f18c52b8be0c
+CVE-2019-0683,Will Schroeder / Lee Christensen,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0683,
+CVE-2018-8200,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8200,
+CVE-2018-8204,Matt Graeber / Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8204,
+CVE-2018-8414,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8414,
+CVE-2018-8222,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8222,
+CVE-2018-8221,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8221,
+CVE-2018-8212,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8212,
+CVE-2018-8211,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8211,
+CVE-2018-8126,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8126,
+CVE-2018-0958,Lee Christensen,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0958,
+CVE-2018-0902,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0902,
+CVE-2018-0884,Lee Christensen,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0884,
+CVE-2018-0854,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0854,
+CVE-2018-0827,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0827,
+N/A,Lee Christensen,https://github.com/MicrosoftDocs/windows-itpro-docs/blame/953da14f7460ea6ec75d1ca6a84a492f85f95b04/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules.md#L59-VisualUIAVerifyNative.exe%20bypass,
+CVE-2017-8715,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8715,
+CVE-2017-8625,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8625,
+CVE-2017-0219,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0219,
+CVE-2017-0218,Matt Graeber / Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0218,
+CVE-2017-0216,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0216,
+CVE-2017-0215,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0215,
+CVE-2017-0007,Matt Nelson,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0007,
+CVE-2016-3346,Matt Graeber,https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2016-3346,
+ADV170021,Matt Nelson,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV170021,
