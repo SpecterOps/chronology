@@ -1,4 +1,5 @@
 ID,Researcher(s),URL,Blog
+CVE-2026-,Hope Walker,https://security.strongdm.com/?tcuUid=56fde839-9388-4361-8d3b-9baa7b2de2ed,https://specterops.io/blog/2026/06/01/cve-2026-4387-strongdm-state-file-reuse/
 CVE-2026-20967,Garrett Foster,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20967,
 CVE-2025-59501,Garrett Foster,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59501,
 CVE-2025-52095,Garrett Foster,https://nvd.nist.gov/vuln/detail/cve-2025-52095,
