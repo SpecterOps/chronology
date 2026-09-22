@@ -1,7 +1,7 @@
 CVE-2026-20967,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20967,Garrett Foster
 CVE-2025-59501,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59501,Garrett Foster
 CVE-2025-52095,https://nvd.nist.gov/vuln/detail/cve-2025-52095,Garrett Foster
-CVE-2026-52094,https://nvd.nist.gov/vuln/detail/cve-2025-52094,Garrett Foster
+CVE-2025-52094,https://nvd.nist.gov/vuln/detail/cve-2025-52094,Garrett Foster
 CVE-2024-26209,https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26209,Evan McBroom
 CVE-2020-14979,https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896,Matt Hand
 CVE-2020-10747,https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b,Julian Catrambone
