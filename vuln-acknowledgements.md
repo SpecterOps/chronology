@@ -1,0 +1,50 @@
+| ID | Researcher(s) | Description | URL | Blog |
+| --- | --- | --- | --- | --- |
+| CVE-2026-77903 | Daniel Heinsen | Cross-tenant Privilege Escalation in Microsoft Dynamics | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77903 | |
+| CVE-2026-4387 | Hope Walker |  | https://security.strongdm.com/?tcuUid=56fde839-9388-4361-8d3b-9baa7b2de2ed | https://specterops.io/blog/2026/06/01/cve-2026-4387-strongdm-state-file-reuse/ |
+| CVE-2026-34348 | Michael Grafnetter | Passkey assertions written to Windows event log | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34348 | https://specterops.io/resources/pass-the-passkey/ |
+| N/A | Michael Grafnetter | Entra ID WebAuthn Assertion Replay Attack | https://blackhat.com/us-26/briefings/schedule/?#pass-the-passkey-family-of-attacks-51821 | https://specterops.io/resources/pass-the-passkey/ |
+| N/A | Michael Grafnetter | Credential UI Window Handle Spoofing | https://blackhat.com/us-26/briefings/schedule/?#pass-the-passkey-family-of-attacks-51821 | https://specterops.io/resources/pass-the-passkey/ |
+| CA25-38 | Martin Sohn Christensen | Product documentation introducing critical AD CS misconfiguration | https://community.cyberark.com/s/feed/0D5Vy00001oD7i3KAC | https://specterops.io/blog/2026/03/24/rtfm-read-the-fatal-manual-when-vendor-documentation-creates-critical-attack-paths/ |
+| N/A | Martin Sohn Christensen | Product documentation introducing critical AD CS misconfiguration | https://www.manageengine.com/mobile-device-management/help/certificate_management/ad_cs_certificate_template_guidance.html | https://specterops.io/blog/2026/03/24/rtfm-read-the-fatal-manual-when-vendor-documentation-creates-critical-attack-paths/ |
+| CVE-2026-20967 | Garrett Foster |  | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20967 |  |
+| CVE-2025-59501 | Garrett Foster |  | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59501 |  |
+| CVE-2025-52095 | Garrett Foster |  | https://nvd.nist.gov/vuln/detail/cve-2025-52095 |  |
+| CVE-2025-52094 | Garrett Foster |  | https://nvd.nist.gov/vuln/detail/cve-2025-52094 |  |
+| CVE-2025-49758 | Chris Thompson | MSSQL Server ALTER ANY LOGIN Permission Elevation of Privilege | https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-49758 | https://specterops.io/blog/2026/01/15/mssql-and-sccm-elevation-of-privilege-vulnerabilities/ |
+| CVE-2025-47179 | Chris Thompson | Configuration Manager Elevation of Privilege | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47179 | https://specterops.io/blog/2026/01/15/mssql-and-sccm-elevation-of-privilege-vulnerabilities/ |
+| CVE-2024-26209 | Evan McBroom |  | https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26209 |  |
+| N/A | Duane Michael, Zach Stein, Chris Thompson, Garrett Foster | Intune Endpoint Privilege Manager agent local privilege escalation | https://msrc.microsoft.com/update-guide/acknowledgement#:~:text=2024-,Feb%2029%2C%202024,-Duane%20Michael | https://specterops.io/blog/2024/04/02/getting-intune-with-bugs-and-tokens-a-journey-through-epm |
+| CVE-2020-14979 | Matt Hand |  | https://nvd.nist.gov/vuln/detail/cve-2020-14979 | https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896 |
+| CVE-2020-10747 | Julian Catrambone |  | https://www.freeipa.org/page/Releases/4.6.9 | https://posts.specterops.io/attacking-freeipa-part-iv-cve-2020-10747-7c373a1bf66b |
+| CVE-2020-9913 | Cody Thomas |  | https://support.apple.com/en-us/HT211289 |  |
+| CVE-2020-8884 | Lee Christensen |  | https://www.proofpoint.com/us/security/security-advisories/pfpt-sa-2020-0002 |  |
+| CVE-2020-0583 | Lee Christensen |  | https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00354.html |  |
+| CVE-2019-18631 | Lee Christensen |  | https://centrify.force.com/support/Article/KB-22420-Centrify-Agent-for-Windows-Remote-Code-Execution-Vulnerability |  |
+| CVE-2019–12757 | Matt Nelson |  | https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/0/0/symsa1488 | https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6 |
+| CVE-2019-13382 | Matt Nelson |  | https://support.techsmith.com/hc/en-us/articles/43414049971213-Snagit-Windows-2019-Version-History | https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349 |
+| CVE-2019–13142 | Matt Nelson |  | https://nvd.nist.gov/vuln/detail/cve-2019-13142 | https://posts.specterops.io/cve-2019-13142-razer-surround-1-1-63-0-eop-f18c52b8be0c |
+| CVE-2019-0683 | Will Schroeder, Lee Christensen |  | https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0683 |  |
+| CVE-2018-8200 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8200 |  |
+| CVE-2018-8204 | Matt Graeber, Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8204 |  |
+| CVE-2018-8414 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8414 |  |
+| CVE-2018-8222 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8222 |  |
+| CVE-2018-8221 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8221 |  |
+| CVE-2018-8212 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8212 |  |
+| CVE-2018-8211 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8211 |  |
+| CVE-2018-8126 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8126 |  |
+| CVE-2018-0958 | Lee Christensen |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0958 |  |
+| CVE-2018-0902 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0902 |  |
+| CVE-2018-0884 | Lee Christensen |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0884 |  |
+| CVE-2018-0854 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0854 |  |
+| CVE-2018-0827 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0827 |  |
+| N/A | Lee Christensen |  | https://github.com/MicrosoftDocs/windows-itpro-docs/blame/953da14f7460ea6ec75d1ca6a84a492f85f95b04/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules.md#L59-VisualUIAVerifyNative.exe%20bypass |  |
+| CVE-2017-8715 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8715 |  |
+| CVE-2017-8625 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8625 |  |
+| CVE-2017-0219 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0219 |  |
+| CVE-2017-0218 | Matt Graeber, Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0218 |  |
+| CVE-2017-0216 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0216 |  |
+| CVE-2017-0215 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0215 |  |
+| CVE-2017-0007 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0007 |  |
+| CVE-2016-3346 | Matt Graeber |  | https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2016-3346 |  |
+| ADV170021 | Matt Nelson |  | https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV170021 |  |
