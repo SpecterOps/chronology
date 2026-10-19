@@ -1,5 +1,7 @@
 | ID | Researcher(s) | Description | URL | Blog |
 | --- | --- | --- | --- | --- |
+| CVE-2026-64708 | Lance Cain | Gatekeeper bypass in native macOS scripting binary | https://support.apple.com/en-us/128067 | |
+| CVE-2026-28854 | Lance Cain | Untrusted code execution in maliciously modified macOS applications | | |
 | CVE-2026-70049 | Garrett Foster | Privilege Escalation via SQL Injection in Microsoft Configuration Manager | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70049 | |
 | CVE-2026-77903 | Daniel Heinsen | Cross-tenant Privilege Escalation in Microsoft Dynamics | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77903 | |
 | CVE-2026-4387 | Hope Walker |  | https://security.strongdm.com/?tcuUid=56fde839-9388-4361-8d3b-9baa7b2de2ed | https://specterops.io/blog/2026/06/01/cve-2026-4387-strongdm-state-file-reuse/ |
