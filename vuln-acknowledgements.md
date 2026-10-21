@@ -1,5 +1,6 @@
 | ID | Researcher(s) | Description | URL | Blog |
 | --- | --- | --- | --- | --- |
+| GHSA-8prr-f582-jqq3 | JD Crandell | Registry push token disclosure via verbose deployment logging in LangGraph CLI | https://github.com/langchain-ai/langgraph/security/advisories/GHSA-8prr-f582-jqq3 | |
 | CVE-2026-83695 | Steven Flores | Windows Event Logging Service Information Disclosure | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83695 | |
 | CVE-2026-64708 | Lance Cain | Gatekeeper bypass in native macOS scripting binary | https://support.apple.com/en-us/128067 | |
 | CVE-2026-28854 | Lance Cain | Untrusted code execution in maliciously modified macOS applications | | |
