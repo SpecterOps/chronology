@@ -1,5 +1,7 @@
 | ID | Researcher(s) | Description | URL | Blog |
 | --- | --- | --- | --- | --- |
+| CVE-2026-70229 | Raj Patel | LDAP Signing Bypass | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70229 | https://specterops.io/blog/2026/10/23/ldap-signing-bypass-ntlm-relay/ |
+| CVE-2026-88235 | Andrew Gomez | Servicing Stack Updates Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88235 | |
 | CVE-2026-119943 | Steven Flores | Microsoft Windows Search Component Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119943 | |
 | CVE-2026-70177 | Steven Flores | Microsoft Windows Search Component Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70177 | |
 | CVE-2026-115885 | JD Crandell | Registry push token disclosure via verbose deployment logging in LangGraph CLI | https://nvd.nist.gov/vuln/detail/cve-2026-115885 | |
