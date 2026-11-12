@@ -1,5 +1,7 @@
 | ID | Researcher(s) | Description | URL | Blog |
 | --- | --- | --- | --- | --- |
+| CVE-2026-119943 | Steven Flores | Microsoft Windows Search Component Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119943 | |
+| CVE-2026-70177 | Steven Flores | Microsoft Windows Search Component Elevation of Privilege Vulnerability | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70177 | |
 | CVE-2026-115885 | JD Crandell | Registry push token disclosure via verbose deployment logging in LangGraph CLI | https://nvd.nist.gov/vuln/detail/cve-2026-115885 | |
 | CVE-2026-83695 | Steven Flores | Windows Event Logging Service Information Disclosure | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83695 | |
 | CVE-2026-64708 | Lance Cain | Gatekeeper bypass in native macOS scripting binary | https://support.apple.com/en-us/128067 | |
